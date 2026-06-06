@@ -1,0 +1,8 @@
+[package]
+name = "plato-ternary-bridge"
+version = "0.1.0"
+edition = "2021"
+description = "Bridges Plato room sensor values to ternary {-1, 0, +1} states for alarm evaluation, consensus voting, and compression"
+license = "MIT"
+
+[dependencies]
